@@ -1,5 +1,6 @@
 # mzpro
 ranamz(NAM TU SUNA HUGA)
+rm -rf mzpro
 pkg update && pkg upgrade
 
 pkg install python2
