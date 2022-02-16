@@ -23,4 +23,4 @@ cd mzpro
 
 git pull
 
-python2 zpro.py
+python2 F4STOKSPED.py
