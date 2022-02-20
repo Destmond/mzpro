@@ -23,4 +23,4 @@ cd mzpro
 
 git pull
 
-python2 mzpro.py
+python2 oldpro.py
